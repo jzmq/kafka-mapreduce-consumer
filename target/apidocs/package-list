@@ -1,0 +1,4 @@
+com.conductor.hadoop
+com.conductor.kafka
+com.conductor.kafka.hadoop
+com.conductor.kafka.zk
