@@ -11,7 +11,7 @@
     <properties>
         <kafka.version>0.8.1.1</kafka.version>
         <scala.version>2.13.1</scala.version>
-        <hadoop.version>2.3.0</hadoop.version>
+        <hadoop.version>2.10.1</hadoop.version>
         <guava.version>12.0.1</guava.version>
         <slf4j.version>1.6.1</slf4j.version>
     </properties>
